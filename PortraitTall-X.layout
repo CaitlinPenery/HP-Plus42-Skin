@@ -3,7 +3,7 @@
 # Based on style from 42s-X skins by Musiame.
 # Using base code from Tyge Løvset.
 
-Skin: 0,0,860,1762
+Skin: 0,0,640,1168
 Display: 58,120 4 6 000000 ffffff
 
 Key: 1   37,489,124,125  32,484,137,135  892,484
