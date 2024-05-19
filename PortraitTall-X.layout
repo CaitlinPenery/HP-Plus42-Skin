@@ -1,5 +1,5 @@
 Skin: 0,40,750,1294                # Absolute coordinates
-Display: 48,54 5 6 000000 cccccc   # Relative (in-skin) coordinates
+Display: 38,54 5 6 000000 cccccc   # Relative (in-skin) coordinates
 DisplaySize: 22,5 54 6 5           # cols,rows disp_y pixel_scale_y max_rows
 Flags: 7
 
