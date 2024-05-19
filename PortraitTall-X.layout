@@ -1,10 +1,10 @@
 # HP-42S skin for Plus42
 # Created by Caitlin Penery, April 2017.
-# Based on style from 42s-X skins by NicoB.
+# Based on style from 42s-X skins by Musiame.
 # Using base code from Tyge Løvset.
 
 Skin: 0,0,860,1762
-Display: 37,330 6 8 000000 ffffff
+Display: 58,120 4 6 000000 ffffff
 
 Key: 1   37,489,124,125  32,484,137,135  892,484
 Key: 2   169,489,124,125  164,484,134,135  1024,484
